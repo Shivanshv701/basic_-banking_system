@@ -6,7 +6,9 @@ TSF Internship Project:Basic Banking System, This Web application is used to tra
 Technologies Used:
 
 Front-end : HTML, CSS, Bootstrap & Javascript
+
 Back-end : PHP
+
 Database : MySQL
 
 Flow:
